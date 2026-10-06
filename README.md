@@ -1,2 +1,8 @@
 # Piano
-[Chuông gió LANG KANG](cglk.pdf) — [Audio ở đây](cglk.mp3)
+<details><summary>Chuông gió LANG KANG</summary>
+
+> [Tải PDF](cglk.pdf) (96.8KB)   
+> [Tải MP3](cglk.mp3) (926KB)   
+> [Tải MSCZ](cglk.mscz) (101KB)
+
+</details>
