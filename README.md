@@ -11,3 +11,15 @@
 > [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/cglk.mscz)
 
 </details>
+<details><summary>In the Hall of the fail music theory King</summary>
+
+> [PDF](ithotfmtk.pdf) (74.1KB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/ithotfmtk.pdf)
+
+> [MP3](ithotfmtk.mp3) (1.44MB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/ithotfmtk.mp3)
+
+> [MSCZ](ithotfmtk.mscz) (35.7KB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/ithotfmtk.mscz)
+
+</details>
