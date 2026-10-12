@@ -59,3 +59,15 @@
 > [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/ms_mv3.mscz)
 
 </details>
+<details><summary>Sunlight Sonata</summary>
+
+> [PDF](ss.pdf) (71.9KB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/ss.pdf)
+
+> [MP3](ss.mp3) (1.9MB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/ss.mp3)
+
+> [MSCZ](ss.mscz) (30.8KB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/ss.mscz)
+
+</details>
