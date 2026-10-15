@@ -71,3 +71,15 @@
 > [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/ss.mscz)
 
 </details>
+<details><summary>một đời</summary>
+
+> [PDF](mot_doi.pdf) (112KB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/mot_doi.pdf)
+
+> [MP3](mot_doi.mp3) (4.92MB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/mot_doi.mp3)
+
+> [MSCZ](mot_doi.mscz) (141KB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/mot_doi.mscz)
+
+</details>
