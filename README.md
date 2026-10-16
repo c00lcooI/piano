@@ -83,3 +83,15 @@
 > [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/mot_doi.mscz)
 
 </details>
+<details><summary>Chim xào LANG KANG</summary>
+
+> [PDF](chimxao.pdf) (25.7KB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/chimxao.pdf)
+
+> [MP3](chimxao.mp3) (560KB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/chimxao.mp3)
+
+> [MSCZ](chimxao.mscz) (23.9KB)   
+> [Tải về (Download)](https://raw.githubusercontent.com/c00lcooI/piano/main/chimxao.mscz)
+
+</details>
